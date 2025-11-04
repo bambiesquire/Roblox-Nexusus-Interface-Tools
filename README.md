@@ -24,3 +24,5 @@ Suggested Promotional Slogans
 dowloand = https://mega.nz/file/Qdt00KrQ#x5BVNutKExhPxon1dA4zBUe7DoOzy9kYEdaJk7eLU54
 
 pass = nexsus
+
+<img width="791" height="788" alt="Снимок экрана 2025-11-04 032943" src="https://github.com/user-attachments/assets/d8125b5a-5289-46da-9c53-f338ac0aec48" />
